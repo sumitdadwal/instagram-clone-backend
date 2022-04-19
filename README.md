@@ -2,9 +2,17 @@
 
 Use the following code to run this code:
 > `git clone https://github.com/sumitdadwal/instagram-clone-backend`
+
+
 > python -m venv env
+
+
 > env\scripts\activate
+
+
 > pip install -r requirements.txt
+
+
 > uvicorn main:app --reload
 
 You can check all the end points at `localhost:8000/docs`
